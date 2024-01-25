@@ -7,7 +7,7 @@ def check_reg_num(reg_num: str):
         print(f'Номер {number} валиден, регион {region}')
     else:
         print('Номер не валиден')
-        
+         
 check_reg_num('У162УС777')
 check_reg_num('А343ВС77')
 check_reg_num('А943ИС77')
