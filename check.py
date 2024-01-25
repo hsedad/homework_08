@@ -15,3 +15,4 @@ check_reg_num('А675ВС7777')
 check_reg_num('е777кх777')
 
 check_reg_num('У128ЕР999')
+check_reg_num('Ш333ЖП999')
