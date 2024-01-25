@@ -13,3 +13,6 @@ check_reg_num('А343ВС77')
 check_reg_num('А943ИС77')
 check_reg_num('А675ВС7777')
 check_reg_num('е777кх777')
+
+check_reg_num('У128ЕР999')
+check_reg_num('ш128хф325')
